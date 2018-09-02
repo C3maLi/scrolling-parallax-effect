@@ -1,1 +1,1 @@
-# scrolling-parallax-effect
+# Scrolling Parallax Effect
